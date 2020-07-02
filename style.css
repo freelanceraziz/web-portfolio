@@ -1,2 +1,96 @@
-body{font-family: 'Oswald', sans-serif;}
+body{margin:0px;
+    font-family: 'Oswald', sans-serif;}
 #first_span{color:orange;}
+.first_div{float:left;
+            margin-left: 50px;
+        width:45%;
+        padding-left: 10px;
+    margin-top:8px;}
+.second_div{float:left;
+            margin-left: 60px;
+        width:45%;
+        padding-left: 10px;}    
+.second_div img{width:50%;
+                margin-left: 30%;
+            padding-top:30px;}        
+.first_section{background-image: url("images/top-banner.png");
+                                    background-repeat: no-repeat;
+                                }  
+section{height:400px;
+    }   
+.button_firsta{text-decoration: none;
+                color:white;
+                }   
+#first_button{width:80px;
+                height:30px;
+                background-color: firebrick;
+                border-radius: 5px;
+               }
+p{color:#888;}
+h1{font-size: 30px;}
+
+
+.third_div{float:left;
+                
+            width:45%;
+            padding-left: 10px;} 
+
+.third_div img{width:70%;
+    margin-left: 10%; }   
+.four_div{float:left;
+                margin-left: 50px;
+            width:40%;
+            padding-left: 10px;
+        margin-top:8px;}
+#second_button{width:200px;
+            height:30px;
+            background-color: firebrick;
+            border-radius: 5px;
+        }
+.button_seconda{text-decoration: none;
+                    color:white;
+                    } 
+.second_section{background-image: url("images/dream-bg.png");
+                        background-repeat: no-repeat;
+                    
+                        background-position: right;
+                     
+                    }  
+
+
+
+.five_div{float:left;
+                
+                        width:40%;
+                        padding-left: 10px;
+                        margin-left: 100px;
+                        box-shadow: 10px 10px 40px grey;
+                      background-color: white;
+                    } 
+.six_div{float:left;
+                
+                            width:40%;
+                            padding-left: 10px;
+                            box-shadow: 10px 10px 40px grey;
+                            margin-left: 60px;} 
+.third_section{background-image: url("images/exp-bg.png");
+                                background-repeat: no-repeat;
+                                background-position:left;
+                          
+                             
+                            }  
+#fullstack{ border-left: 5px solid;
+    border-image: linear-gradient(180deg,salmon,tomato);
+    border-image-slice: 1}          
+
+    #babystack{ border-left: 5px solid;
+        border-image: linear-gradient(180deg,blue,cyan);
+        border-image-slice: 1}
+
+
+footer{background-color: darkgray;
+            color:black;
+            text-align:center;
+            }
+
+ 
